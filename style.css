@@ -4,7 +4,6 @@
   --green: #49AA26;
   --light-green: #3dd705;
   --red: #e92929;
-
 }
 
 * {
@@ -32,7 +31,6 @@ body {
   clip: rect(0, 0, 0, 0);
   white-space: nowrap;
   border-width: 0;
-
 }
 
 .container {
